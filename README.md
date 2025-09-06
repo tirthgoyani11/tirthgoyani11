@@ -43,7 +43,7 @@ Modern portfolio template for developers
 
 ---
 ## ✨ GitHub Activity Graph
-[![tirthgoyani11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tirthgoyani11)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![tirthgoyani11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tirthgoyani11&theme=github-compac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
