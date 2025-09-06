@@ -42,6 +42,9 @@ Modern portfolio template for developers
 [Portfolio 🌐](https://tirthgoyani.dev/)
 
 ---
+## ✨ GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tirthgoyani11&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 LET'S CONNECT
 
