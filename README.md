@@ -27,21 +27,19 @@ _I enjoy collaboration, open source, and learning new things every day._
 
 ---
 
-## 🌟 PINNED PROJECTS
-
-### [EcoSnap-AI v1](https://github.com/tirthgoyani11/ecosnap-aiv1)
+### [EcoSnap](https://github.com/tirthgoyani11/Ecosnap.git)
 AI-powered web platform for product eco analysis
   
 `React` `TypeScript` `Tailwind` `Supabase`
 
-[Live Demo 🌍](https://ecosnap-aiv1.vercel.app/)
+[Live Demo 🌍](tirthgoyani.app/)
 
-### [Portfolio Landing Page](https://github.com/tirthgoyani11/portfolio-landing-page)
+### [Portfolio Page](https://github.com/tirthgoyani11/portfolio-page.git)
 Modern portfolio template for developers
   
 `React` `TypeScript` `Tailwind CSS`
 
-[Portfolio 🌐](https://tirthgoyani.dev/)
+[Portfolio 🌐](https://tirthgoyani.me/)
 
 ---
 
