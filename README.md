@@ -48,7 +48,7 @@ Modern portfolio template for developers
 
 ## 📫 LET'S CONNECT
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tirthgoyani) | [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/tirthgoyani11) | [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tirthgoyani123@gmail.com) | [![Website](https://img.shields.io/badge/Website-black?logo=vercel)](https://tirthgoyani.dev/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tirthgoyani) | [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/tirthgoyani11) | [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tirthgoyani123@gmail.com) | [![Website](https://img.shields.io/badge/Website-black?logo=vercel)](https://tirthgoyani.me/) |
 
 ---
 
