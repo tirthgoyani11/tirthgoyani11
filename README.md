@@ -32,7 +32,7 @@ AI-powered web platform for product eco analysis
   
 `React` `TypeScript` `Tailwind` `Supabase`
 
-[Live Demo 🌍](tirthgoyani.app/)
+[Live Demo 🌍](https://tirthgoyani.app/)
 
 ### [Portfolio Page](https://github.com/tirthgoyani11/portfolio-page.git)
 Modern portfolio template for developers
